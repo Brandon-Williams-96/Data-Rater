@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "213408462572",
+    "firebase_url": "https://data-rater-fe518.firebaseio.com",
+    "project_id": "data-rater-fe518",
+    "storage_bucket": "data-rater-fe518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213408462572:android:d3f2b4152646814a",
+        "android_client_info": {
+          "package_name": "com.example.brandon.dating_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213408462572-k4m1eta214qq7tfohg51ll02fl8dp1hs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.brandon.dating_app",
+            "certificate_hash": "9c810d8310af8a81c674992208bb385cab79d664"
+          }
+        },
+        {
+          "client_id": "213408462572-5g7c46k4hhatmc9u12jbfugr0cjumk7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl6tlOGZg2J3cCOUnC98azgHj_77892gY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213408462572-5g7c46k4hhatmc9u12jbfugr0cjumk7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

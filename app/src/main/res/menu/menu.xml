@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <item android:title ="Refresh"
+        android:id="@+id/refreshButton"
+        app:showAsAction="never"/>
+
+    <item android:title ="Filter"
+        android:id="@+id/filterButton"
+        app:showAsAction="never"/>
+
+    <item android:title ="Matches"
+        android:id="@+id/matchesButton"
+        app:showAsAction="never"/>
+
+    <item android:title ="About Me"
+        android:id="@+id/aboutMeButton"
+        app:showAsAction="never"/>
+
+    <item android:title ="Sign Out"
+        android:id="@+id/signOutButton"
+        app:showAsAction="never"/>
+
+
+</menu>
